@@ -1,0 +1,20 @@
+img {
+    width: 200px;
+    margin: 40px;
+}
+section {
+    display: flex;
+    justify-content: space-around;
+   font-family: 'Galindo', sans-serif;
+   font-weight: 400;
+   color: brown;
+}
+h2{
+    display: flex;
+    justify-content: center;
+   font-family: 'rawelia', sans-serif;
+   font-weight: 400;
+   color: brown;
+
+}
+
